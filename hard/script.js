@@ -14,7 +14,6 @@ let jerryMass = 45;
 
 let tomBMI = tomMass / (tomHeight * tomHeight);
 let jerryBMI = jerryMass / (jerryHeight * jerryHeight);
-console.log(tomBMI, jerryBMI);
 
 let whosBigger = false;
 console.log(tomBMI, jerryBMI);
